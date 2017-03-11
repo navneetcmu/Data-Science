@@ -7,10 +7,10 @@ import tweepy
 def main():
   # Fill in the values noted in previous step here
   cfg = {
-    "consumer_key"        : "pg1kVXaCrfvdjDVIDdLj3ox7W",
-    "consumer_secret"     : "Oj7M2CrtSz6MRRjSmL0ufSzlbApOG861Zo7vLtnC5bYf3r56SM",
-    "access_token"        : "2205419940-X8vghsGjEqKEC6lfeIJh5BoaaFR6lhKtTJHVIWq",
-    "access_token_secret" : "kgKLdE6054KeH7LspE4EqSLJqy4AgGkvIYRebDlCF9bXZ"
+    "consumer_key"        : "enter token here",
+    "consumer_secret"     : "enter token here",
+    "access_token"        : "enter token here",
+    "access_token_secret" : "enter token here"
     }
 
   api = get_api(cfg)
